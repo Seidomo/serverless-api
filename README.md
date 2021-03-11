@@ -68,6 +68,6 @@
 - *Nick M*
 
 
-- ![UML](../assets/lab18.png)
+- ![UML](./assets/lab18.png)
 
-- ![IMAGE](../assets/apiget.png)
+- ![IMAGE](./assets/apiget.png)
